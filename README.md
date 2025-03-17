@@ -1,5 +1,5 @@
 # Self-cumulative Contrastive Graph Clustering
-We provide a demo based on ACM, DBLP and Pubmed datasets for our submitted paper: [Self-cumulative Contrastive Graph Clustering](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2024.125025).  Run main.py to show the training process of the model.
+We provide a demo based on ACM, DBLP and Reuters datasets for our submitted paper: [Self-cumulative Contrastive Graph Clustering](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2024.125025).  Run main.py to show the training process of the model.
 
    
 
@@ -12,7 +12,7 @@ munkres==1.1.4
 
 ## Datasets
 
-The ACM, DBLP and Pubmed datasets are placed in "data" folder. The others dataset can find on the Internet. We will not put the link here
+The ACM, DBLP and Reuters datasets are placed in "data" folder. The others dataset can find on the Internet. We will not put the link here
 
 ## Usage
 
